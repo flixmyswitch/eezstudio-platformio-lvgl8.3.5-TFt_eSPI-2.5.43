@@ -4,3 +4,8 @@ The code complies and uploads to an elecrow 3.5" esp32 tft touch screen.  The im
 is sent to the serial monitor apart from what looks like a crash report.
 
 So its uses the VARS files and I think it this that make the screen crash
+
+EEZstudio version 0.24
+LVGL 8.3.5
+TFT_eSPI 2.5.43
+
